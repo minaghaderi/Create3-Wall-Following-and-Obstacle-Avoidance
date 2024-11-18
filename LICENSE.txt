@@ -1,0 +1,14 @@
+
+Simplified BSD 3-Clause License
+
+Copyright (c) 2021-2023, iRobot Corporation.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted under the following conditions:
+
+1. You must include the original copyright notice, this list of conditions, and the disclaimer below in all copies or substantial portions of the software.
+2. Any distributions in binary form must also include the same information in any documentation or other materials provided with it.
+3. You can't use the copyright holder's name or contributors' names to promote products derived from this software without written permission.
+
+Disclaimer:
+This software is provided "as is", without warranty of any kind. The authors aren't responsible for any issues that may arise, including but not limited to damages or data loss. Use at your own risk!
